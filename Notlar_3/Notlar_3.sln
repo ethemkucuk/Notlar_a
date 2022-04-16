@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notlar_3", "Notlar_3.csproj", "{E6766A11-D28E-4EA0-94C6-E620E91746DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6766A11-D28E-4EA0-94C6-E620E91746DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6766A11-D28E-4EA0-94C6-E620E91746DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6766A11-D28E-4EA0-94C6-E620E91746DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6766A11-D28E-4EA0-94C6-E620E91746DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {484F2079-57AC-4436-933E-3D253385B648}
+	EndGlobalSection
+EndGlobal

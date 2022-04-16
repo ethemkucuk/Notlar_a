@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\bin\Debug\Notlar_2.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\bin\Debug\Notlar_2.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\bin\Debug\Notlar_2.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Notlar_2\obj\Debug\Notlar_2.pdb
